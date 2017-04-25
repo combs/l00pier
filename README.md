@@ -1,6 +1,8 @@
 # l00pier
 Loopin' Louie, but loopier.
 
+_by @mattgrosso and @combs_
+
 ## Modes
 
 - **Random speeds**, gradually changed, reverting to normal speed between each random speed
