@@ -25,6 +25,9 @@ const int SWITCH_MIDDLE = 1;
 const int SWITCH_LOW = 2;
 
 
+// This is some magic for the particular three-way switch we used.
+// You should replace this with whatever is appropriate for your hardware.
+
 int getSwitchValue() {
 
   int pin2 = ! digitalRead(2);
